@@ -1,7 +1,7 @@
 # crawlerpython
 
 A simple crawler (no machine learning) to crawl a specific page. 
-The code is from the Training [Python Bootcamp](https://www.udemy.com/course/python-bootcamp/) on Udemy from Jannis Seemann
+The code is from the Training [Python Bootcamp](https://www.udemy.com/course/python-bootcamp/) on Udemy from Jannis Seemann.
 
 The url crawled is an [example page](http://python.beispiel.programmierenlernen.io/index.php) and the kex information from this page will be read, the top 8 articles will be presented and all articles will be stored in a seperate Document (readable for Excel).
 
