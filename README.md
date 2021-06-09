@@ -1,4 +1,4 @@
-# crawlerpython
+# Python Crawler
 
 A simple crawler (no machine learning) to crawl a specific page. 
 The code is from the Training [Python Bootcamp](https://www.udemy.com/course/python-bootcamp/) on Udemy from Jannis Seemann.
